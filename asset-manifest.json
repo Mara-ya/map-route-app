@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/map-route-app/static/css/main.87b9e22e.css",
+    "main.js": "/map-route-app/static/js/main.7a10980b.js",
+    "static/js/787.a306988f.chunk.js": "/map-route-app/static/js/787.a306988f.chunk.js",
+    "static/media/piratesMap.png": "/map-route-app/static/media/piratesMap.316f72d50a2da8cb2b90.png",
+    "index.html": "/map-route-app/index.html",
+    "main.87b9e22e.css.map": "/map-route-app/static/css/main.87b9e22e.css.map",
+    "main.7a10980b.js.map": "/map-route-app/static/js/main.7a10980b.js.map",
+    "787.a306988f.chunk.js.map": "/map-route-app/static/js/787.a306988f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b9e22e.css",
+    "static/js/main.7a10980b.js"
+  ]
+}
